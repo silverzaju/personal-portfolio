@@ -2,6 +2,7 @@
 * My personal portfolio web site which will include my projects.
 * This web-site is built on a template web-site which is referred below.
 
+To view live: **[click here](https://silverzaju-portfolio.netlify.app/)
 
 
 
